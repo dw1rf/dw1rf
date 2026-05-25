@@ -1,17 +1,14 @@
-<!--
-  Место для баннера 1280x320.
-  Идея: темный minimal tech / neon фон, крупный текст "dw1rf",
-  подпись: "Telegram Bots • Discord Bots • Minecraft Tools • Automation".
+<p align="center">
+  <img src="assets/banner.png" alt="dw1rf banner" width="100%" />
+</p>
 
-  Когда баннер будет готов, загрузите его, например, в assets/banner.png
-  и раскомментируйте блок ниже, заменив PASTE_BANNER_IMAGE_URL_HERE
-  на прямую ссылку на изображение:
+<div align="center">
 
-  <p align="center">
-    <img src="PASTE_BANNER_IMAGE_URL_HERE" alt="dw1rf banner" width="100%" />
-  </p>
--->
+# Привет, я Александр 👋
 
+**Разрабатываю Telegram/Discord ботов, автоматизацию и серверные инструменты**
+
+</div>
 <div align="center">
 
 # Привет, я Александр, мне 21 год.👋
