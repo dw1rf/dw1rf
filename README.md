@@ -57,17 +57,13 @@
 
 ---
 
-## GitHub статистика
+## GitHub активность
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dw1rf&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dw1rf&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dw1rf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-</div>
-
----
+Работаю над ботами, серверными инструментами и автоматизацией. Основные проекты закреплены ниже в профиле.
 
 ## Связь
 
