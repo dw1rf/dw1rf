@@ -72,6 +72,11 @@
 
 ## GitHub
 
+<p align="center">
+  <img height="165" src="https://readme-stats-fast.vercel.app/api?username=dw1rf&show_icons=true&hide_border=true&theme=tokyonight&locale=ru" alt="GitHub stats" />
+  <img height="165" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=dw1rf&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</p>
+
 Основные репозитории закреплены ниже в профиле. Больше проектов можно посмотреть во вкладке [Repositories](https://github.com/dw1rf?tab=repositories).
 
 ---
