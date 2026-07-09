@@ -57,7 +57,7 @@
 | [Telegram-notif-bot](https://github.com/dw1rf/Telegram-notif-bot) | Telegram-бот для уведомлений и рабочих сценариев | Python, Telegram |
 | [tg_bot_cs](https://github.com/dw1rf/tg_bot_cs) | Telegram customer support bot для BlockEra | Python, support automation |
 | [BlockEra2FA-Plugin-v0.1.0](https://github.com/dw1rf/BlockEra2FA-Plugin-v0.1.0) | Плагин 2FA для Paper 1.21.5 | Minecraft, server security |
-| [union-connect-web](https://github.com/dw1rf/union-connect-web) | Web-проект на TypeScript | TypeScript, frontend |
+| [vox-voice](https://github.com/dw1rf/vox-voice) | Голосовой ввод, команды и ИИ-автопилот для Windows | Python, Whisper, LLM |
 
 ---
 
