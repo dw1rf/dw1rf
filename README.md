@@ -85,4 +85,4 @@
 
 - GitHub: [@dw1rf](https://github.com/dw1rf)
 - Telegram: `@blcagggg`
-- Discord: `dwarf_fuck`
+- Discord: `other_fuck`
