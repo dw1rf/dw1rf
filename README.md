@@ -77,6 +77,14 @@
   <img height="165" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=dw1rf&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dw1rf/dw1rf/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dw1rf/dw1rf/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/dw1rf/dw1rf/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 Основные репозитории закреплены ниже в профиле. Больше проектов можно посмотреть во вкладке [Repositories](https://github.com/dw1rf?tab=repositories).
 
 ---
