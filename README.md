@@ -52,12 +52,11 @@
 
 | Проект | Что внутри | Фокус |
 | --- | --- | --- |
-| [zapret-control-gui](https://github.com/dw1rf/zapret-control-gui) | Lightweight Windows GUI для Flowseal zapret-discord-youtube | Windows tools, automation |
-| [CP77CrashScanner](https://github.com/dw1rf/CP77CrashScanner) | Open-source scanner для крашей и конфликтов модов Cyberpunk 2077 | Python, desktop tooling |
-| [Telegram-notif-bot](https://github.com/dw1rf/Telegram-notif-bot) | Telegram-бот для уведомлений и рабочих сценариев | Python, Telegram |
-| [tg_bot_cs](https://github.com/dw1rf/tg_bot_cs) | Telegram customer support bot для BlockEra | Python, support automation |
-| [BlockEra2FA-Plugin-v0.1.0](https://github.com/dw1rf/BlockEra2FA-Plugin-v0.1.0) | Плагин 2FA для Paper 1.21.5 | Minecraft, server security |
-| [vox-voice](https://github.com/dw1rf/vox-voice) | Голосовой ввод, команды и ИИ-автопилот для Windows | Python, Whisper, LLM |
+| [Vulgarities Bot](https://github.com/dw1rf/pohabshina-bot) | Discord-бот для модерации, музыки и игровой экономики сервера | discord.py, SQLite |
+| [BlockEra Launcher](https://github.com/dw1rf/BlockEra-Launcher) | Лаунчер Minecraft для управления сборками и модами | Minecraft, Windows |
+| [CP77 Crash Scanner](https://github.com/dw1rf/CP77CrashScanner) | Анализирует журналы Cyberpunk 2077 и помогает находить причины сбоев и конфликты модов | REDengine, MO2, Vortex |
+| [Open AntiLag](https://github.com/dw1rf/OpenAntiLag) | Применяет игровой профиль Windows и позволяет вернуть исходные настройки | Windows, .NET Framework |
+| [FlowDeck](https://github.com/dw1rf/flowdeck) | Сохраняет раскладку окон и запускает команды из палитры | Qt, Python, Lua |
 
 ---
 
