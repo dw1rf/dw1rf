@@ -56,7 +56,7 @@
 | [BlockEra Launcher](https://github.com/dw1rf/BlockEra-Launcher) | Лаунчер Minecraft для управления сборками и модами | Minecraft, Windows |
 | [CP77 Crash Scanner](https://github.com/dw1rf/CP77CrashScanner) | Анализирует журналы Cyberpunk 2077 и помогает находить причины сбоев и конфликты модов | REDengine, MO2, Vortex |
 | [Open AntiLag](https://github.com/dw1rf/OpenAntiLag) | Применяет игровой профиль Windows и позволяет вернуть исходные настройки | Windows, .NET Framework |
-| [FlowDeck](https://github.com/dw1rf/flowdeck) | Сохраняет раскладку окон и запускает команды из палитры | Qt, Python, Lua |
+| [vox-voice](https://github.com/dw1rf/vox-voice) | Диктовка на русском, голосовые команды и обработка текста из буфера обмена | Windows, Whisper, LLM |
 
 ---
 
